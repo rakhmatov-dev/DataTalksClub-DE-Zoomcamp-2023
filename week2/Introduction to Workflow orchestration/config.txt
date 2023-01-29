@@ -1,0 +1,5 @@
+What is Workflow Orchestration?
+Workflow orchestration means governing your data flow in a way that
+respects orchestration rules and your business logic
+
+
